@@ -1,5 +1,5 @@
 package com.example.aaa
 
-import io.flutter.embedding.android.FlutterActivity
+import io.flutter.chat_app.FlutterActivity
 
 class MainActivity: FlutterActivity()
